@@ -1,0 +1,11 @@
+.calCon{
+  width: 20%;
+  margin-left: 40%;
+}
+#display{
+  margin-left: 20%;
+}
+.ButtonCon{
+  display: flex;
+  flex-wrap: wrap;
+}
